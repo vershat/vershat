@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vershat
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning JAVA LANGUAGE
 - 📫 you can contact me through mail...shonadeep607@gmail.com
 
 <!---
