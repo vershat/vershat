@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vershat
-- 👀 I’m interested in CODING
-- 📫 you can contact me through mail...shonadeep607@gmail.com
+- 👋 HELLO, I’m Versha 
+
+
 
 <!---
 vershat/vershat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
